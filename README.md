@@ -9,7 +9,8 @@ User has many Posts <br />
 * Post you'll be able to include comments, image, likes that is link to the user 
 
 <br /> 
-!(/Users/flatironschoolmc/flatironprojects/pet/Screen Shot 2022-05-05 at 3.34.31 PM.png)
+## Schema
+![image](/Users/flatironschoolmc/flatironprojects/pet/Screen Shot 2022-05-05 at 3.34.31 PM.png)
 
 <br /> 
 <br /> 
