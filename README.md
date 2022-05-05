@@ -13,7 +13,7 @@ User has many Posts <br />
 
 ## Schema
 
-![schema](src/readme_pics/schema.png)
+![schema](src/readme_pics/Screen Shot 2022-05-05 at 3.34.31 PM.png)
 
 <br /> 
 <br /> 
