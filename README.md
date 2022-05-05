@@ -1,6 +1,7 @@
-# Project Pet <br />
+# Project PetGram <br />
 🐕 🐩 🐇 🦜 🦎 🐈<br />
 ### Rails and React App <br />
+### FlatIron Project 4: Michelle Caraballo
 
 Post belongs to User <br />
 User has many Posts <br />
@@ -11,7 +12,8 @@ User has many Posts <br />
 <br /> 
 
 ## Schema
-![image](/Users/flatironschoolmc/flatironprojects/pet/Screen Shot 2022-05-05 at 3.34.31 PM.png)
+
+![schema](src/readme_pics/schema.png)
 
 <br /> 
 <br /> 
