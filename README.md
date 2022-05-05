@@ -1,3 +1,27 @@
+# Project Pet <br />
+:🐕: :🐩: :🐇:<br />
+### Rails and React App <br />
+
+Post belongs to User <br />
+User has many Posts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Project Template: React/Rails API
 
 ## Description
