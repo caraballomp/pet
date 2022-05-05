@@ -5,13 +5,26 @@
 Post belongs to User <br />
 User has many Posts <br />
 
-* User will be able to have a bio, password, their pet name, also include the type of pet with a profile image *
-* Post you'll be able to include comments, image, likes that is link to the user * 
+* User will be able to have a bio, password, their pet name, also include the type of pet with a profile image 
+* Post you'll be able to include comments, image, likes that is link to the user 
 
+<br /> 
+!(file:///Users/flatironschoolmc/Desktop/Screen%20Shot%202022-05-05%20at%203.34.31%20PM.png)
 
 <br /> 
 <br /> 
 <br />
+<br />
+<br />
+<br />
+<br /> 
+<br /> 
+<br />
+<br />
+<br />
+<br />
+<br /> 
+<br /> 
 <br />
 <br />
 <br />
