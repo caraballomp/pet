@@ -9,7 +9,7 @@ User has many Posts <br />
 * Post you'll be able to include comments, image, likes that is link to the user 
 
 <br /> 
-!(file:///Users/flatironschoolmc/Desktop/Screen%20Shot%202022-05-05%20at%203.34.31%20PM.png)
+!(/Users/flatironschoolmc/flatironprojects/pet/Screen Shot 2022-05-05 at 3.34.31 PM.png)
 
 <br /> 
 <br /> 
