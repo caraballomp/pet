@@ -9,9 +9,7 @@ User has many Posts <br />
 * Post you'll be able to include comments, image, likes that is link to the user 
 
 <br /> 
-Please reference app.drawio for graph
-
-
+!(file:///Users/flatironschoolmc/Desktop/Screen%20Shot%202022-05-05%20at%203.34.31%20PM.png)
 
 <br /> 
 <br /> 
@@ -30,7 +28,7 @@ Please reference app.drawio for graph
 <br />
 <br />
 <br />
-<br />
+
 # Project Template: React/Rails API
 
 ## Description
