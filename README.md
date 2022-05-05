@@ -22,6 +22,9 @@ User has many Posts <br />
 <br />
 <br />
 <br />
+<br /> 
+<br /> 
+<br /> 
 
 # Project Template: React/Rails API
 
