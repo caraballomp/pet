@@ -1,26 +1,20 @@
 # Project Pet <br />
-:🐕: :🐩: :🐇:<br />
+🐕 🐩 🐇 🦜 🦎 🐈<br />
 ### Rails and React App <br />
 
 Post belongs to User <br />
-User has many Posts
+User has many Posts <br />
+
+* User will be able to have a bio, password, their pet name, also include the type of pet with a profile image *
+* Post you'll be able to include comments, image, likes that is link to the user * 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br /> 
+<br /> 
+<br />
+<br />
+<br />
+<br />
 
 # Project Template: React/Rails API
 
