@@ -18,10 +18,6 @@ User has many Posts <br />
 
 <br /> 
 <br /> 
-<br />
-<br />
-<br />
-<br /> 
 <br /> 
 <br />
 <br />
