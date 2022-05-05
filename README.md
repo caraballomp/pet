@@ -13,7 +13,8 @@ User has many Posts <br />
 
 ## Schema
 
-![schema](src/readme_pics/Screen Shot 2022-05-05 at 3.34.31 PM.png)
+<img width="418" alt="Screen Shot 2022-05-05 at 3 34 31 PM" src="https://user-images.githubusercontent.com/98852513/167043304-2b0c3291-7e2a-4001-8da9-b73a82e400c3.png">
+
 
 <br /> 
 <br /> 
